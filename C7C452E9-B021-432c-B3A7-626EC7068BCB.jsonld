@@ -1,0 +1,85 @@
+{
+	"@context": "http://schema.org/",
+	"@type": "Dataset",
+	"@id": "C7C452E9-B021-432c-B3A7-626EC7068BCB",
+	"identifier": "C7C452E9-B021-432c-B3A7-626EC7068BCB",
+	"name": "Collectie boeken",
+	"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+	"publisher": {
+		"@id": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed",
+		"@type": "Organization",
+		"name": "Rijksdienst voor het Cultureel Erfgoed",
+		"contactPoint": {
+			"@type": "ContactPoint",
+			"name": "Rijksdienst voor het Cultureel Erfgoed",
+			"email": "info@cultureelerfgoed.nl",
+			"telephone": "033-4217456"
+		}
+	},
+	"description": "Metadata over alle boeken in de collectie van de Rijksdienst voor het Cultureel Erfgoed.",
+	"inLanguage": "nl-NL",
+	"creator": {
+		"@type": "Organization",
+		"name": "Rijksdienst voor het Cultureel Erfgoed",
+		"url": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed",
+		"contactPoint": {
+			"@type": "ContactPoint",
+			"name": "Rijksdienst voor het Cultureel Erfgoed",
+			"email": "info@cultureelerfgoed.nl",
+			"telephone": "033-4217456"
+		}
+	},
+	"mainEntityOfPage": [
+		"https://www.cultureelerfgoed.nl/onderwerpen/bibliotheek"
+	],
+	"dateCreated": "2021-10-25T15:37",
+	"datePublished": "2021-10-25T15:37",
+	"version": "1.0",
+	"keywords": [
+		"rijksmonumenten",
+		"archeologie",
+		"cultureel erfgoed",
+		"landschap",
+		"kunst"
+	],
+	"genre": [
+		"http://standaarden.overheid.nl/owms/terms/Onderzoek_en_wetenschap",
+		"http://standaarden.overheid.nl/owms/terms/Cultuur_(thema)",
+		"http://standaarden.overheid.nl/owms/terms/Ruimtelijke_ordening",
+		"http://standaarden.overheid.nl/owms/terms/Ruimte_en_infrastructuur",
+		"http://standaarden.overheid.nl/owms/terms/Natuur-_en_landschapsbeheer",
+		"http://standaarden.overheid.nl/owms/terms/Bodem",
+		"http://standaarden.overheid.nl/owms/terms/Kunst_(thema)"
+	],
+	"includedInDataCatalog": "https://catalogus.cultureelerfgoed.nl/search/simple",
+	"distribution": [
+		{
+			"@type": "DataDownload",
+			"contentUrl": "https://rce.adlibhosting.com/harvest/wwwopac.ashx?database=books&search=pointer%201964%20",
+			"encodingFormat": [
+				"htext/xml"
+			],
+			"name": "Restfull api",
+			"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+			"inLanguage": [
+				"nl-NL"
+			],
+			"datePublished": "2021-10-25T15:51",
+			"contentSize": "onbekend"
+		},
+		{
+			"@type": "DataDownload",
+			"contentUrl": "http://rce.adlibhosting.com/oaiapi/oai.ashx?verb=ListRecords&set=books&metadataPrefix=oai_dc_book",
+			"encodingFormat": [
+				"htext/xml"
+			],
+			"name": "OAI-PMH-endpoint",
+			"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
+			"inLanguage": [
+				"nl-NL"
+			],
+			"datePublished": "2021-10-25T15:54",
+			"contentSize": "onbekend"
+		}
+	]
+}
