@@ -21,7 +21,7 @@
 	"creator": {
 		"@type": "Organization",
 		"name": "Rijksdienst voor het Cultureel Erfgoed",
-		"url": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed",
+		"@id": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed",
 		"contactPoint": {
 			"@type": "ContactPoint",
 			"name": "Rijksdienst voor het Cultureel Erfgoed",
