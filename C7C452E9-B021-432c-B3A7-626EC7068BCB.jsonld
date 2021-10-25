@@ -19,9 +19,10 @@
 	"description": "Metadata over alle boeken in de collectie van de Rijksdienst voor het Cultureel Erfgoed.",
 	"inLanguage": "nl-NL",
 	"creator": {
+		"@id": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed",
 		"@type": "Organization",
 		"name": "Rijksdienst voor het Cultureel Erfgoed",
-		"@id": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed",
+		"url": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed",
 		"contactPoint": {
 			"@type": "ContactPoint",
 			"name": "Rijksdienst voor het Cultureel Erfgoed",
