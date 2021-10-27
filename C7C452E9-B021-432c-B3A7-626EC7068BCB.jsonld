@@ -58,7 +58,7 @@
 			"@type": "DataDownload",
 			"contentUrl": "https://rce.adlibhosting.com/harvest/wwwopac.ashx?database=books&search=pointer%201964%20",
 			"encodingFormat": [
-				"htext/xml"
+				"text/xml"
 			],
 			"name": "Restfull api",
 			"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
@@ -72,7 +72,7 @@
 			"@type": "DataDownload",
 			"contentUrl": "http://rce.adlibhosting.com/oaiapi/oai.ashx?verb=ListRecords&set=books&metadataPrefix=oai_dc_book",
 			"encodingFormat": [
-				"htext/xml"
+				"text/xml"
 			],
 			"name": "OAI-PMH-endpoint",
 			"license": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl",
